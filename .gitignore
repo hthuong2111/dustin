@@ -6,3 +6,4 @@ notebooks/.env
 notebooks/.DS_Store
 .DS_Store
 *.in
+notebooks/data_preparation.ipynb
